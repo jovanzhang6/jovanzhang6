@@ -11,5 +11,3 @@
 
 **常用**：TypeScript · Vue · Rust · Tauri · Python · Node.js
 **探索中**：AI Agent 工程化 · 终端智能体 · AI 驱动的工作流
-
-> 用 AI 的人很多，把 AI 用到能交付的很少。
