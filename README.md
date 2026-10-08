@@ -1,5 +1,17 @@
 ## 👋 Jovan Zhang
 
+AI developer. Projects built end to end with AI — from design and coding to shipping. GLM is my most-used model.
+
+**Projects**
+
+- [InterviewManager](https://github.com/jovanzhang6/interview-manager) — Self-hosted interview progress tracker (Vue 3 + TypeScript)
+- [MyToDo](https://github.com/jovanzhang6/MyToDo) — Desktop TODO widget for Windows (Tauri 2 + Rust)
+
+**Stack**: TypeScript · Vue · Rust · Tauri · Python · Node.js
+**Interests**: AI agents · terminal agents · AI workflows
+
+---
+
 AI 开发者，项目从设计、编码到发布全流程用 AI 完成，常用模型是 GLM。
 
 **项目**
